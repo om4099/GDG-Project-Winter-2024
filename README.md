@@ -18,7 +18,7 @@ The project was divided into 2 tracks namely, track 1 and track 2.
 - First week was about Dataset Preparation, it taught us web scraping, data pre-processing, tokenization and Exploratory Data Analysis(EDA).  
   [Track_1_Assignment_1_Part_1](https://github.com/om4099/GDG-Project-Winter-2024/blob/main/Track_1_Assignment_1_Part_1.ipynb) was based on week 1.
   - It required mentees to create a Creative Dataset by scraping, tokenize it and perform EDA on it.
-- Second week was an introduction to Transformers , Attention , basic architecture of Transformer models and the underlying logic. It also covered the archituecture of RNN, LSTM and GRUs.  
+- Second week was an introduction to Transformers , Attention , basic architecture of Transformer models and the underlying logic. It also covered the archituecture of RNN, LSTM and GRUs. It alco covered basics of NLP.  
 - Third week was an extension of Second week where mentees were taught about self attention, positional encoding, encoder and decoder in detail.  
   [Track_1_Assignment_1_Part_2](https://github.com/om4099/GDG-Project-Winter-2024/blob/main/Track_1_Assignment_1_Part_2.ipynb) was based on week 2 and some content of week 3.
   - It required mentees to construct a coocurrence matrix and perform Principal Component Analysis (PCA) ont the dataset for dimentionality reduction to visualize the word embeddings.
@@ -30,3 +30,18 @@ The project was divided into 2 tracks namely, track 1 and track 2.
 - Though the track 2 was supposed to cover Image genration to a descent level. But due to time constrqaints, only Vanilla GAN, FCGAN, DCGAN and Generator and Discriminator were covered.  
   [Track_2_Assignment_1](https://github.com/om4099/GDG-Project-Winter-2024/blob/main/Track_2_Assignment_1.ipynb) was based on the basics of GANs.
    - It required mentees to build a GAN model trained on the [MNIST dataset](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz) using both the FCGAN and DCGAN architecture.
+ 
+
+
+## My Experience
+Overall this was a very basic but at the same time very exciting project for me, as it introduced me to so many technologies like:
+- Web Scraping
+- Deep Learning
+  - RNN, LASTM, GRU
+  - Transformers
+  - NLP
+  - Fine tuning models
+  - GANs
+  - Generator and Discriminator
+
+It was the first time in my journey of 3 semesters of engineering I felt that coding is a good thing, infact it felt quiet logical. Untill my 3rd semester my experience with coding was not so harmonious.
